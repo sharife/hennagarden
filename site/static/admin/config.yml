@@ -15,6 +15,13 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - label: Videos
+        name: videos
+        widget: list
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: desc, widget: string, required: false}
+          - {label: YouTube ID, name: id, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
@@ -34,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "title", widget: "string"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "About", name: "values", widget: "object", fields: [
+          - {label: "About", name: "about", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}

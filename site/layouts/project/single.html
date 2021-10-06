@@ -9,6 +9,13 @@
     <div class="cms mw6">
       <p class="f4">{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.videos }}
+          <div class="mb4">
+            {{ range .Params.videos }}
+              {{ partial "youtube" (dict "id" .id "title" .title "desc" .desc) }}
+            {{ end }}
+          </div>
+        {{ end }}
       {{ .Content }}
     </div>
   </div>
