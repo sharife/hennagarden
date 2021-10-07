@@ -17,6 +17,9 @@
           </div>
         {{ end }}
       {{ .Content }}
+      {{ if .Params.photos }}
+        {{ partial "gallery" (dict "photos" .Params.photos "pageUrl" .Permalink ) }}
+      {{ end }}
     </div>
   </div>
 {{ end }}

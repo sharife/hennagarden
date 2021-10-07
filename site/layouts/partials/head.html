@@ -13,6 +13,7 @@
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
 	<!-- <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet"> -->
+	<link rel="stylesheet" href="/css/perfundo.with-icons.css">
 	<link rel="preconnect" href="https://fonts.googleapis.com"> 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,600;1,300;1,600&display=swap" rel="stylesheet">

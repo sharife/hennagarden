@@ -20,9 +20,21 @@ collections: # A list of collections the CMS should be able to edit
         widget: list
         fields:
           - {label: Title, name: title, widget: string, required: false}
-          - {label: Description, name: desc, widget: string, required: false}
+          - {label: Description, name: desc, widget: text, required: false}
           - {label: YouTube ID, name: id, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: Photo Gallery
+        name: photos
+        widget: object
+        required: false
+        fields: 
+          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - label: Images
+            name: items
+            widget: list
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
+              - {label: Caption, name: caption, widget: text, required: false}
   - name: "pages"
     label: "Pages"
     preview: false
