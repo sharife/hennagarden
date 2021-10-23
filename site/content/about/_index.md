@@ -23,49 +23,50 @@ about:
       each event an innovative and exceptional experience.
     imageUrl: img/renda.jpg
 ---
-
 Henna Garden works with museums, corporations, non-profits, schools, universities and private clients.  
 
 Past and present clients of Henna Garden include:  
 
 **Museums**
-- Academy of Sciences (San Francisco)
-- Asian Art Museum(San Francisco)
-- Brooklyn Children’s Museum
-- City Museum of New York
-- de Young Museum (San Francisco)
-- Field Museum of Chicago
-- Legion of Honor (San Francisco)
-- Randall Children’s Museum (San Francisco)  
+
+* Academy of Sciences (San Francisco)
+* Asian Art Museum(San Francisco)
+* Brooklyn Children’s Museum
+* City Museum of New York
+* de Young Museum (San Francisco)
+* Field Museum of Chicago
+* Legion of Honor (San Francisco)
+* Randall Children’s Museum (San Francisco)  
 
 &nbsp;
 
 **Corporations**  
-- American Express
-- Bank of America
-- Black & White Production Company
-- Bloomingdale’s
-- BMW
-- Bride Magazine
-- Les Bains Paris
-- Calvin Klein
-- Chem Connect, Inc.
-- Chubb Insurance Group
-- Credit Agricole Indosuez
-- Equity Property Management
-- Grace Magazine
-- Google
-- Henri Bendel
-- Hornblower Yachts
-- Hugo Boss
-- Joie de Vivre Hospitality, Inc.
-- Lewit and Lewinter/Freedom LLC
-- New Line Cinema
-- Nordstrom’s
-- Oracle
-- PDI/DreamWorks Animation
-- Pivot Interior
-- Reminiscence Paris
-- Salesforce.com
-- SineAudio
-- Yahoo!
+
+* American Express
+* Bank of America
+* Black & White Production Company
+* Bloomingdale’s
+* BMW
+* Bride Magazine
+* Les Bains Paris
+* Calvin Klein
+* Chem Connect, Inc.
+* Chubb Insurance Group
+* Credit Agricole Indosuez
+* Equity Property Management
+* Grace Magazine
+* Google
+* Henri Bendel
+* Hornblower Yachts
+* Hugo Boss
+* Joie de Vivre Hospitality, Inc.
+* Lewit and Lewinter/Freedom LLC
+* New Line Cinema
+* Nordstrom’s
+* Oracle
+* PDI/DreamWorks Animation
+* Pivot Interior
+* Reminiscence Paris
+* Salesforce.com
+* SineAudio
+* Yahoo!
