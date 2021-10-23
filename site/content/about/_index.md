@@ -1,15 +1,27 @@
 ---
-title: "About Us"
-image: 
+title: About Us
+image: null
 about:
-  - heading: "History"
+  - heading: About Henna Garden Events & Entertainment
+    text: "From our roots as the first U.S. Henna Salon to today’s thriving event
+      planning and entertainment agency, Henna Garden continues to deliver
+      excellent service.  We are known for creating alluring, innovative, and
+      exceptional experiences which ignite the senses that you and your guests
+      will remember for years to come. "
+    imageUrl: /img/fpo.png
+  - heading: Our Founder & Director
     text: >
-      From our roots as the first U.S. Henna Salon to today’s thriving event planning and entertainment agency, Henna Garden continues to deliver excellent service.  We are known for creating alluring, innovative, and exceptional experiences which ignite the senses that you and your guests will remember for years to come. 
-    imageUrl: "/img/fpo.png"
-  - heading: "Our Founder & Director"
-    text: >
-      Renda Dabit, Founder and Director of Henna Garden Events and Entertainment, brings over 25 years of event planning experience.  After opening the first U.S. Henna Salon in 1996, Renda discovered and developed her talent for organized entertainment.  The success of her salon and her previous decade of experience as an events manager enabled her to launch her own event planning and entertainment firm.  A meticulous professional with a spontaneous and bohemian spirit, Renda loves to channel her creativity into Henna Garden.
-    imageUrl: "/img/fpo.png"
+      Renda Dabit, Founder and Director of Henna Garden Events and
+      Entertainment, brings over 25 years of event planning experience.  After
+      opening the first U.S. Henna Salon in 1996, Renda discovered and developed
+      her talent for organized entertainment.  The success of her Henna Salon
+      and her previous decade of experience as an events manager enabled her to
+      launch her own event planning and entertainment firm.  What began as a
+      boutique service in the San Francisco Bay Area expanded to Los Angeles and
+      New York City/Tri-State area.  A meticulous professional with a
+      spontaneous and bohemian spirit, Renda channels her creativity to make
+      each event an innovative and exceptional experience.
+    imageUrl: img/renda.jpg
 ---
 
 Henna Garden works with museums, corporations, non-profits, schools, universities and private clients.  
