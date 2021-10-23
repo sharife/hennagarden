@@ -2,7 +2,7 @@
 title: About Us
 image: null
 about:
-  - heading: About Henna Garden Events & Entertainment
+  - heading: History
     text: "From our roots as the first U.S. Henna Salon to today’s thriving event
       planning and entertainment agency, Henna Garden continues to deliver
       excellent service.  We are known for creating alluring, innovative, and
