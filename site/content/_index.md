@@ -4,9 +4,9 @@ subtitle: A full-service event planning company in the San Francisco Bay Area
 image: img/dsc00075.jpg
 blurb:
   heading: Make Your Next Event a Lasting Memory
-  text: Henna Garden specializes in multicultural entertainment and event
-    planning, and has been providing unique and diverse entertainment services
-    to corporations, nonprofit organizations, schools and private clients. Our
+  text: Henna Garden specializes in event planning featuring multicultural
+    talent  and has been providing unique and diverse entertainment services to
+    corporations, nonprofit organizations, schools and private clients. Our
     passion and dedication for exceeding expectations is what distinguishes us
     from other companies.
 projects:
@@ -23,10 +23,12 @@ projects:
     text: With access to more than 1,000 musicians, artists, and performers, we can
       ensure the best talent for your events.
 about:
-  heading: About Henna Garden
+  heading: About Henna Garden Events & Entertainment
   image: /img/fpo.png
-  text: Since 1996, Henna Garden has produced innovative and one-of-a-kind events.
-    With access to more than 1,000 entertainers, Henna Garden provides event
-    planning and entertainment services for corporations, nonprofit
-    organizations, museums, schools and private clients.
+  text: >
+    From our roots as the first U.S. Henna Salon to today’s thriving event
+    planning and entertainment agency, Henna Garden continues to deliver
+    excellent service.  We are known for creating alluring, innovative, and
+    exceptional experiences which ignite the senses that you and your guests
+    will remember for years to come.
 ---
