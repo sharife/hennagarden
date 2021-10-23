@@ -1,9 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 1724 Santiago St., San Francisco, CA 94116
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 5PM"
 ---
