@@ -2,8 +2,12 @@
 title: Contact
 logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: San Francisco, CA 94116
+  - heading: "Phone #"
+    text: |-
+      (510) 823-8422; 
+      (415) 759-7275
+  - heading: Email
+    text: info@hennagarden.com
   - heading: Working hours
     text: "Monday – Saturday: 10AM – 6PM"
 ---
