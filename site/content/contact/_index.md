@@ -3,9 +3,9 @@ title: Contact
 logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: 1724 Santiago St., San Francisco, CA 94116
+    text: San Francisco, CA 94116
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 5PM"
+    text: "Monday – Saturday: 10AM – 6PM"
 ---
 
 We’d love to get in touch with you and hear your ideas and
