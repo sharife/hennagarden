@@ -4,8 +4,11 @@ logo: /img/logo.svg
 contact_entries:
   - heading: "Phone #"
     text: |-
+      Phone #:
       (510) 823-8422; 
       (415) 759-7275
+
+      Email: info@hennagarden.com
   - heading: Email
     text: info@hennagarden.com
   - heading: Working hours
