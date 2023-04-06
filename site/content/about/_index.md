@@ -23,9 +23,7 @@ about:
       each event an innovative and exceptional experience.
     imageUrl: img/renda.jpg
 ---
-Henna Garden works with museums, corporations, non-profits, schools, universities and private clients.  
-
-Past and present clients of Henna Garden include:  
+Henna Garden works with museums, corporations, non-profits, schools, universities and private clients. Past and present clients of Henna Garden include:  
 
 **Museums**
 
