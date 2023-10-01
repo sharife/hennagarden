@@ -41,7 +41,7 @@
 		color: var(--primary);
 		transition: var(--hover-transition);
 		&:hover {
-			/*background-color: var(--highlight);*/
+			background-color: var(--highlight);
 			color: var(--black);
 		}
 	}
