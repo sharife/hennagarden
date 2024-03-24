@@ -10,7 +10,7 @@ intro:
     few key elements.
   blurbs:
     - text: Audio/ Visual & Lighting
-      image: img/dsc00075.jpg
+      image: img/fpo.png
     - text: Design Concept & Theme Development
       image: /img/fpo.png
     - text: Entertainment Services
