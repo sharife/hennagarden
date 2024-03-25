@@ -12,7 +12,7 @@ intro:
     - text: Audio/ Visual & Lighting
       image: img/dsc00075.jpg
     - text: Design Concept & Theme Development
-      image: /img/fpo.png
+      image: img/_93a5255.jpg
     - text: Entertainment Services
       image: /img/fpo.png
     - text: Event Furnishings & Décor
