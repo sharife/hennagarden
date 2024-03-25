@@ -12,15 +12,15 @@ intro:
     - text: Audio/ Visual & Lighting
       image: img/dsc00075.jpg
     - text: Design Concept & Theme Development
-      image: img/img_9085.jpg
+      image: img/img_8995.jpg
     - text: Entertainment Services
       image: img/350115276_161786020173716_7954427332504319208_n.jpg
     - text: Event Furnishings & Décor
-      image: img/screen-shot-2024-03-25-at-12.25.03-pm.png
+      image: img/img_8819.jpg
     - text: Project Management & Logistics
-      image: img/henna-pic-sfpl.png
+      image: img/12.06-1.07-event-photos-218.jpg
     - text: Event Staffing & Security
-      image: img/7.12.06-jill-bd-on-platform-dim-lights-peg.jpeg
+      image: img/img_9210.jpg
 testimonials:
   - author: Deidre Kernan, California Academy of Science
     quote: We have used Renda Dabit and HennaGarden at the California Academy of
