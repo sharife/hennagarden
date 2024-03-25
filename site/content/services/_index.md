@@ -16,11 +16,11 @@ intro:
     - text: Entertainment Services
       image: img/350115276_161786020173716_7954427332504319208_n.jpg
     - text: Event Furnishings & Décor
-      image: img/img_8819.jpg
+      image: img/img_9210.jpg
     - text: Project Management & Logistics
       image: img/12.06-1.07-event-photos-218.jpg
     - text: Event Staffing & Security
-      image: img/img_9210.jpg
+      image: img/347141957_938657797346431_8417685496090229725_n.jpg
 testimonials:
   - author: Deidre Kernan, California Academy of Science
     quote: We have used Renda Dabit and HennaGarden at the California Academy of
