@@ -18,9 +18,9 @@ intro:
     - text: Event Furnishings & Décor
       image: img/screen-shot-2024-03-25-at-12.25.03-pm.png
     - text: Project Management & Logistics
-      image: /img/fpo.png
+      image: img/henna-pic-sfpl.png
     - text: Event Staffing & Security
-      image: /img/fpo.png
+      image: img/7.12.06-jill-bd-on-platform-dim-lights-peg.jpeg
 testimonials:
   - author: Deidre Kernan, California Academy of Science
     quote: We have used Renda Dabit and HennaGarden at the California Academy of
