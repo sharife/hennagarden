@@ -20,7 +20,7 @@ intro:
     - text: Project Management & Logistics
       image: img/12.06-1.07-event-photos-218.jpg
     - text: Event Staffing & Security
-      image: img/347141957_938657797346431_8417685496090229725_n.jpg
+      image: img/347434076_786528619444131_5490345297048973506_n.jpg
 testimonials:
   - author: Deidre Kernan, California Academy of Science
     quote: We have used Renda Dabit and HennaGarden at the California Academy of
