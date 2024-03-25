@@ -16,7 +16,7 @@ intro:
     - text: Entertainment Services
       image: /img/fpo.png
     - text: Event Furnishings & Décor
-      image: /img/fpo.png
+      image: img/screen-shot-2024-03-25-at-12.25.03-pm.png
     - text: Project Management & Logistics
       image: /img/fpo.png
     - text: Event Staffing & Security
