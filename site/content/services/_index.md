@@ -12,7 +12,7 @@ intro:
     - text: Audio/ Visual & Lighting
       image: img/dsc00075.jpg
     - text: Design Concept & Theme Development
-      image: img/322349580_1317528022375059_8485048632507869864_n.jpg
+      image: img/img_9085.jpg
     - text: Entertainment Services
       image: img/350115276_161786020173716_7954427332504319208_n.jpg
     - text: Event Furnishings & Décor
