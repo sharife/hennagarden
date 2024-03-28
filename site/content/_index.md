@@ -10,21 +10,21 @@ blurb:
     passion and dedication for exceeding expectations is what distinguishes us
     from other companies.
 projects:
-  - image: img/fpo.png
+  - image: img/7.12.06-jill-bd-on-platform-dim-lights-peg.jpeg
     title: Event Planning
     text: Henna Garden creates innovative events which ignite the senses like no
       other, with our experience, passion, and creative ingenuity!
-  - image: /img/fpo.png
+  - image: img/315822244_10160481080397020_2648157772706706782_n.jpg
     title: Set Design
     text: We can create an innovative event space that provides a transformative
       experience.
-  - image: img/fpo.png
+  - image: img/322349580_1317528022375059_8485048632507869864_n.jpg
     title: Entertainment
     text: With access to more than 1,000 musicians, artists, and performers, we can
       ensure the best talent for your events.
 about:
   heading: About Henna Garden Events & Entertainment
-  image: /img/fpo.png
+  image: img/henna-pic-sfpl.png
   text: >
     From our roots as the first U.S. Henna Salon to today’s thriving event
     planning and entertainment agency, Henna Garden continues to deliver
