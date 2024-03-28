@@ -8,7 +8,7 @@ about:
       excellent service.  We are known for creating alluring, innovative, and
       exceptional experiences which ignite the senses that you and your guests
       will remember for years to come. "
-    imageUrl: img/img_8844.jpg
+    imageUrl: img/347141957_938657797346431_8417685496090229725_n.jpg
   - heading: Our Founder & Director
     text: >
       Renda Dabit, Founder and Director of Henna Garden Events and
