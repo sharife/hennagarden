@@ -8,7 +8,7 @@ about:
       excellent service.  We are known for creating alluring, innovative, and
       exceptional experiences which ignite the senses that you and your guests
       will remember for years to come. "
-    imageUrl: img/belly-dance-group-2.2.07.jpeg
+    imageUrl: img/327207928_719133523102235_5776210450314845554_n.png
   - heading: Our Founder & Director
     text: >
       Renda Dabit, Founder and Director of Henna Garden Events and
