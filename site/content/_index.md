@@ -18,13 +18,13 @@ projects:
     title: Set Design
     text: We can create an innovative event space that provides a transformative
       experience.
-  - image: img/12.06-1.07-event-photos-239.jpg
+  - image: img/347408237_946673686619702_8790640952997709029_n.jpg
     title: Entertainment
     text: With access to more than 1,000 musicians, artists, and performers, we can
       ensure the best talent for your events.
 about:
   heading: About Henna Garden Events & Entertainment
-  image: img/henna-pic-sfpl.png
+  image: img/7.12.06-jill-bd-on-platform-dim-lights-peg.jpeg
   text: >
     From our roots as the first U.S. Henna Salon to today’s thriving event
     planning and entertainment agency, Henna Garden continues to deliver
