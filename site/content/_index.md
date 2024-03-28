@@ -10,11 +10,11 @@ blurb:
     passion and dedication for exceeding expectations is what distinguishes us
     from other companies.
 projects:
-  - image: img/belly-dance-group-2.2.07.jpeg
+  - image: img/img_9202.jpg
     title: Event Planning
     text: Henna Garden creates innovative events which ignite the senses like no
       other, with our experience, passion, and creative ingenuity!
-  - image: img/img_9184.jpg
+  - image: img/347141957_938657797346431_8417685496090229725_n.jpg
     title: Set Design
     text: We can create an innovative event space that provides a transformative
       experience.
