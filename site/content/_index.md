@@ -18,7 +18,7 @@ projects:
     title: Set Design
     text: We can create an innovative event space that provides a transformative
       experience.
-  - image: img/img_8844.jpg
+  - image: img/12.06-1.07-event-photos-239.jpg
     title: Entertainment
     text: With access to more than 1,000 musicians, artists, and performers, we can
       ensure the best talent for your events.
