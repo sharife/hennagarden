@@ -4,24 +4,27 @@ image:
   - img/holi.png
 about:
   - heading: History
-    text: "From our roots as the first U.S. Henna Salon to today’s thriving event
-      planning and entertainment agency, Henna Garden continues to deliver
-      excellent service.  We are known for creating alluring, innovative, and
-      exceptional experiences which ignite the senses that you and your guests
-      will remember for years to come. "
+    text: >-
+      From our beginnings as the first henna salon in the U.S. to becoming a
+      leading event and entertainment agency with over 1,000 curated performers,
+      Henna Garden has built a reputation for excellence, creativity, and
+      authenticity. Our work is grounded in cultural richness, client care, and
+      unforgettable experiences.
+
+
+      Since 1996, Henna Garden Events & Entertainment has collaborated with clients across the Bay Area—from corporations and universities to cultural institutions and private celebrations. Our events are immersive, high-impact, and thoughtfully designed to engage and inspire.
+       
+      Whether we’re producing a full-scale festival or crafting intimate cultural activations, our approach is rooted in decades of experience and a deep love for the art of gathering.
     imageUrl: img/347141957_938657797346431_8417685496090229725_n.jpg
   - heading: Our Founder & Director
     text: >
-      Renda Dabit, Founder and Director of Henna Garden Events and
-      Entertainment, brings over 25 years of event planning experience.  After
-      opening the first U.S. Henna Salon in 1996, Renda discovered and developed
-      her talent for organized entertainment.  The success of her Henna Salon
-      and her previous decade of experience as an events manager enabled her to
-      launch her own event planning and entertainment firm.  What began as a
-      boutique service in the San Francisco Bay Area expanded to Los Angeles and
-      New York City/Tri-State area.  A meticulous professional with a
-      spontaneous and bohemian spirit, Renda channels her creativity to make
-      each event an innovative and exceptional experience.
+      Renda Dabit launched Henna Garden with a mission to share the beauty and
+      traditions of henna with the world. After founding the first dedicated
+      henna salon in Berkeley in 1996, then expanding to LA and NYC in 1997,
+      Renda quickly became a go-to creative for both private and public events,
+      known for her authenticity, innovation, and warm presence.
+       
+      With over 29 years of experience in event planning and entertainment, Renda has grown Henna Garden into a trusted name for dynamic, inclusive, and culturally rich experiences. Her commitment to excellence, paired with a deep network of global talent, ensures that every event is as seamless as it is spectacular.
     imageUrl: img/renda.jpg
 ---
 Henna Garden works with museums, corporations, non-profits, schools, universities and private clients. Past and present clients of Henna Garden include:  
