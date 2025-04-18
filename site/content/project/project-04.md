@@ -3,6 +3,21 @@ title: "A Night to Remember: Inside Salesforce’s Pan-Asian Holiday Party"
 date: 2021-05-04T15:04:10.000Z
 description: ""
 image: /img/fpo.png
+photos:
+  items:
+    - image: img/12.15.06-bollywood-booth-sf.com-062.jpg
+    - image: img/12.15.06-salesforce-photographers-scott-049.jpg
+    - image: img/12.15.06-salesforce-photographers-scott-017.jpg
+    - image: img/06.12.15.salesforce.com.1282.jpg
+    - image: img/06.12.15.salesforce.com.1175.jpg
+    - image: img/12.15.06-bollywood-booth-sf.com-660.jpg
+    - image: img/12.15.06-salesforce-photographers-scott-064.jpg
+    - image: img/12.15.06-salesforce-photographers-scott-058.jpg
+    - image: img/12.15.06-salesforce-photographers-scott-061.jpg
+    - image: img/06.12.15.salesforce.com.1057.jpg
+    - image: img/06.12.15.salesforce.com.1308.jpg
+    - image: img/06.12.15.salesforce.com.1088.jpg
+    - image: img/06.12.15.salesforce.com.1045.jpg
 ---
 One of the most memorable events I’ve had the pleasure of producing was a holiday celebration for Salesforce employees and their guests at the Asian Art Museum in San Francisco. The event welcomed around 1,500 people and extended across the entire museum—and even spilled out over a full city block. The theme was a vibrant, immersive Pan-Asian experience, with a Bollywood-inspired tent serving as the centerpiece.
 
