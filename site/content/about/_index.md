@@ -1,6 +1,7 @@
 ---
 title: About Us
-image: null
+image:
+  - img/holi.png
 about:
   - heading: History
     text: "From our roots as the first U.S. Henna Salon to today’s thriving event
