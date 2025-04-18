@@ -1,28 +1,27 @@
 ---
-title: 'Project Four Title'
+title: "A Night to Remember: Inside Salesforce’s Pan-Asian Holiday Party"
 date: 2021-05-04T15:04:10.000Z
-description: >-
-  Lorem ipsum dolor sit amet, consecutor unum et loquitur pluribus.
+description: ""
 image: /img/fpo.png
 ---
+One of the most memorable events I’ve had the pleasure of producing was a holiday celebration for Salesforce employees and their guests at the Asian Art Museum in San Francisco. The event welcomed around 1,500 people and extended across the entire museum—and even spilled out over a full city block. The theme was a vibrant, immersive Pan-Asian experience, with a Bollywood-inspired tent serving as the centerpiece.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+We brought together 63 performers and artists to help bring the space to life. The result was a night filled with energy, culture, movement, and color—an unforgettable evening for everyone who attended.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## A Cultural Tapestry in Motion
 
-## A little history
+Throughout the evening, guests explored a dynamic landscape of performance and interaction. Chinese dancers performed both traditional and fusion styles, while a Thai group offered a variety of elegant dances. Korean fan dancers brought grace and precision, and Japanese geishas shared a glimpse of older, more traditional performance art.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+The Bollywood tent was high energy and full of life—colorful costumes, nonstop dance, and top South Asian DJs kept it buzzing. Mongolian contortionists, acrobats, and circus-style entertainers roamed the grounds, adding a sense of wonder and surprise throughout the event.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## Thoughtful Touches and Immersive Design
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Guests had the chance to experience more than just the performances. There were henna and bindi stations, along with a range of astrologers and fortune readers—offering palm, tarot, and tea leaf readings. A photo booth featured hand-painted fabric backdrops, floral touches, and themed props. A serene Japanese tea garden provided a peaceful retreat from the high energy of the party, while a Buddha ice sculpture served as an elegant focal point.
 
-## What you need to know before trying
+## A Culinary Journey
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+The food, catered by McCall’s, matched the evening’s energy and theme. A wide variety of Asian cuisines were served across multiple stations and bars. From bold street-style dishes to refined classics, the offerings encouraged guests to explore, taste, and enjoy throughout the night.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+## A Celebration to Remember
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+The combination of curated performances, immersive environments, and thoughtful details made this holiday party one of a kind. To this day, many attendees still say it was the best holiday celebration they’ve ever been to—and I’m proud to have helped bring it all to life.
