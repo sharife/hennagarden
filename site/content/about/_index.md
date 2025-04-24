@@ -1,7 +1,6 @@
 ---
 title: About Us
-image:
-  - img/holi.png
+image: img/holi.png
 about:
   - heading: History
     text: >-
