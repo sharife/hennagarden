@@ -2,7 +2,7 @@
 title: "A Night to Remember: Inside Salesforce’s Pan-Asian Holiday Party"
 date: 2021-05-04T15:04:10.000Z
 description: ""
-image: img/12.15.06-salesforce-photographers-scott-036.jpg
+image: img/12.15.06-salesforce-photographers-scott-058.jpg
 photos:
   items:
     - image: img/12.15.06-bollywood-booth-sf.com-062.jpg
