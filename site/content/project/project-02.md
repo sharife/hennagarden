@@ -1,28 +1,23 @@
 ---
-title: "Project Two Title"
+title: "LOL Surprise Wonderland: A Whimsical Birthday Bash Full of Sparkles"
 date: 2020-12-17T15:04:10.000Z
-description: >-
-  Lorem ipsum dolor sit amet, consecutor unum et loquitur pluribus.
+description: ""
 image: /img/fpo.png
 ---
+## A Dream Theme Brought to Life
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+This sixth birthday party was all about going big with imagination and detail—and it delivered on every level. Held at a stunning private home in Blackhawk, the entire property was transformed into an LOL-themed wonderland that celebrated one little girl’s favorite world in larger-than-life style.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+From the moment guests arrived, the experience began. Stilt walkers greeted families at the entryway, setting a festive tone. Custom-built props brought the LOL dolls’ world to life—complete with oversized displays, character cutouts, and immersive backdrops. Even the kids' tables and chairs were designed to match the theme, creating a vibrant and inviting atmosphere just for them.
 
-## What the updates mean to you
+## Interactive Fun for Every Guest
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+The entertainment was nonstop. Live performers, LOL character appearances, and a nail art station with the latest designs kept kids buzzing with excitement. Face painting was elevated with rhinestones and shimmer, while a vintage clothing boutique pop-up—complete with tiny shoes, mirrors, and dressing areas—gave guests a chance to play dress-up in style.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+The layout flowed beautifully between thoughtfully designed zones: lawn games and finger foods outside, shaded seating for adults, and playful experiences for the children throughout. Music played in the background as guests explored the different areas, stopping for sweet treats, craft drinks from the smoothie bar, and gourmet coffee.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+## Food, Style, and Finishing Touches
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+The cake was a showstopper—custom-designed, on theme, and as much a centerpiece as a dessert. Dessert displays, mini bites, and food trucks rounded out the offerings, with bartenders and service staff keeping things smooth and polished behind the scenes. Even the upscale portable restrooms were on-brand and elevated, ensuring every detail felt intentional and cared for.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+This celebration balanced creativity and comfort beautifully. It wasn’t just about spectacle—it was about crafting an environment where every guest, child or adult, felt part of something joyful and special. A private home was transformed for a day, and in doing so, made one young birthday girl feel like she stepped into her very own magical world.
