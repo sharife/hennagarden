@@ -3,7 +3,17 @@ title: The Moroccan-Persian Fusion Wedding in Historic Nevada City
 date: 2021-01-04T15:04:10.000Z
 description: |
   A vibrant cultural celebration at the Miners Foundry Cultural Center
-image: /img/fpo.png
+image: img/img_7537.jpg
+photos:
+  items:
+    - image: img/img_7614.jpg
+    - image: img/img_7452.jpg
+    - image: img/img_7566.jpg
+    - image: img/img_7611.jpg
+    - image: img/img_7394.jpg
+    - image: img/img_7437.jpg
+    - image: img/img_7506.jpg
+    - image: img/img_7535.jpg
 ---
 ## A Setting Steeped in Atmosphere
 
