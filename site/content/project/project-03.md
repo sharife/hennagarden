@@ -14,6 +14,9 @@ photos:
     - image: img/img_7437.jpg
     - image: img/img_7506.jpg
     - image: img/img_7535.jpg
+    - image: img/img_7497.jpg
+    - image: img/img_7465.jpg
+    - image: img/img_7602.jpg
 ---
 ## A Setting Steeped in Atmosphere
 
