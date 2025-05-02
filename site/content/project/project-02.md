@@ -3,6 +3,15 @@ title: "LOL Surprise Wonderland: A Whimsical Birthday Bash Full of Sparkles"
 date: 2020-12-17T15:04:10.000Z
 description: ""
 image: /img/fpo.png
+photos:
+  items:
+    - image: img/image001.jpg
+    - image: img/image002.jpg
+    - image: img/image009.jpg
+    - image: img/image011.jpg
+    - {}
+    - {}
+    - {}
 ---
 ## A Dream Theme Brought to Life
 
