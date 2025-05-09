@@ -1,7 +1,8 @@
 ---
 title: Our Services
 type: services
-image: null
+image:
+  - img/347434076_786528619444131_5490345297048973506_n.jpg
 intro:
   heading: What we offer
   description: >-
