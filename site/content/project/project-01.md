@@ -3,7 +3,7 @@ title: "Cotton Candy, Stilt Walkers, & Mazel Tov: A Carnival Bat Mitzvah at The
   Log Cabin!"
 date: 2020-01-04T15:04:10.000Z
 description: A festive, high-energy celebration in one of the Presidio’s hidden gems
-image: /img/fpo.png
+image: img/img_0224.jpg
 photos:
   heading: Photo Gallery
   items:
