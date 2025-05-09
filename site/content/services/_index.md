@@ -60,7 +60,7 @@ intro:
         - Europe (Greek, German, Irish)
 
         - Central Asia (Uzbekistan, Afghanistan, Iran)
-      image: img/img_8995.jpg
+      image: img/20160507_205505.jpg
     - text: >-
         Circus Performers
 
@@ -98,7 +98,7 @@ intro:
         - Aerialist
 
         - Sword Swallower
-      image: img/350115276_161786020173716_7954427332504319208_n.jpg
+      image: img/cirque-group-resized.png
     - text: >-
         Face and Body Art: From Henna and Crystal tattoos, to Facepaint and
         Airbrush
@@ -120,7 +120,7 @@ intro:
         - We use FDA approved paints.
 
         - Comes off with soap and water
-      image: img/img_9210.jpg
+      image: img/henna-picutes-013.jpg
     - text: |-
         Fortune Tellers & Readers
 
@@ -133,7 +133,7 @@ intro:
         - I-Ching
         - Aura
         - Lipstick
-      image: img/12.06-1.07-event-photos-218.jpg
+      image: img/tarot2.jpg
     - text: |-
         Children’s Entertainment
 
