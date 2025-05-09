@@ -9,6 +9,7 @@ photos:
     - image: img/lol-april-2023-2.jpg
     - image: img/lol-april-2023-3.jpg
     - image: img/lol-april-2023-4.jpg
+    - image: img/lol-april-2023-5.heic
 ---
 ## A Dream Theme Brought to Life
 
