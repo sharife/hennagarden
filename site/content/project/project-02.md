@@ -5,12 +5,7 @@ description: ""
 image: /img/fpo.png
 photos:
   items:
-    - image: img/image001.jpg
-    - image: img/image002.jpg
-    - image: img/image009.jpg
-    - image: img/image011.jpg
-    - {}
-    - {}
+    - image: img/lol-april-2023-1.jpg
     - {}
 ---
 ## A Dream Theme Brought to Life
