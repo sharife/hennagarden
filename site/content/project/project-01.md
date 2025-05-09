@@ -7,7 +7,13 @@ image: /img/fpo.png
 photos:
   heading: Photo Gallery
   items:
-    - {}
+    - image: img/img_0189.jpg
+    - image: img/img_0225.jpg
+    - image: img/img_0249.jpg
+    - image: img/img_0227.jpg
+    - image: img/img_0224.jpg
+    - image: img/img_0223.jpg
+    - image: img/img_0213.jpg
 ---
 Tucked away in the Presidio, The Log Cabin offered the perfect mix of rustic charm and open space for this carnival-themed Bat Mitzvah. With its warm wood interior and sweeping lawn, the venue gave us room to get creative—welcoming guests into a vibrant celebration filled with color, music, and motion. From the moment guests arrived, they were greeted by a strolling accordionist and colorful decor that brought the carnival concept to life.
 
