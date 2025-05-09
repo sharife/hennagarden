@@ -1,12 +1,12 @@
 ---
-title: Project One Title
+title: "Cotton Candy, Stilt Walkers, & Mazel Tov: A Carnival Bat Mitzvah at The
+  Log Cabin!"
 date: 2020-01-04T15:04:10.000Z
-description: >-
-  Lorem ipsum dolor sit amet, consecutor unum et loquitur pluribus.
+description: A festive, high-energy celebration in one of the Presidio’s hidden gems
 image: /img/fpo.png
-photos: 
+photos:
   heading: Photo Gallery
-  items: 
+  items:
     - image: /img/fpo.png
       caption: Lorem ipsum dolor sit amet
     - image: /img/fpo.png
@@ -14,20 +14,12 @@ photos:
     - image: /img/fpo.png
       caption: Lorem ipsum dolor sit amet
 ---
+Tucked away in the Presidio, The Log Cabin offered the perfect mix of rustic charm and open space for this carnival-themed Bat Mitzvah. With its warm wood interior and sweeping lawn, the venue gave us room to get creative—welcoming guests into a vibrant celebration filled with color, music, and motion. From the moment guests arrived, they were greeted by a strolling accordionist and colorful decor that brought the carnival concept to life.
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+## Interactive Entertainment from Start to Finish
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+This event was all about fun and movement. Outside, classic carnival games lined the lawn while balloon artists, face painters, and roaming performers entertained guests of all ages. A unicyclist, stilt walkers, and a juggler in a padded suit kept the energy high and the surprises coming. Indoors, a DJ and motivational dancers led games and kept the dance floor full throughout the afternoon.
 
-## The little secrets of Chemex brewing
+## Food, Festivities, and Lasting Memories
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Themed food stations served up crowd-pleasing carnival favorites like sliders, popcorn, cotton candy, and mini corn dogs. A playful dessert spread added a final sweet touch, doubling as decor. As the sun went down and lights twinkled across the lawn, the celebration hit its stride—memorable, festive, and full of joy. This Bat Mitzvah captured everything the family hoped for: interactive fun, great food, and a setting that made it all feel just right.
