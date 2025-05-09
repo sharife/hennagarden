@@ -37,7 +37,7 @@ intro:
 
 
         Let us know your theme and we will find the perfect fit to help your event hit that perfect note!
-      image: img/dj.jpg
+      image: img/350115276_161786020173716_7954427332504319208_n.jpg
     - text: >-
         Dancers
 
@@ -98,7 +98,7 @@ intro:
         - Aerialist
 
         - Sword Swallower
-      image: img/cirque-group-resized.png
+      image: img/circus-performers.jpg
     - text: >-
         Face and Body Art: From Henna and Crystal tattoos, to Facepaint and
         Airbrush
@@ -144,7 +144,7 @@ intro:
         - Petting Zoo
         - Story Telling
         - Rides and Inflateables
-      image: img/347434076_786528619444131_5490345297048973506_n.jpg
+      image: img/face-painter-kid.jpg
 testimonials:
   - author: Deidre Kernan, California Academy of Science
     quote: We have used Renda Dabit and HennaGarden at the California Academy of
