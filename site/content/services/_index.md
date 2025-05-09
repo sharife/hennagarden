@@ -37,7 +37,7 @@ intro:
 
 
         Let us know your theme and we will find the perfect fit to help your event hit that perfect note!
-      image: img/dsc00075.jpg
+      image: img/dj.jpg
     - text: >-
         Dancers
 
