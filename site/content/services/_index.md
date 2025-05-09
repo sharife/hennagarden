@@ -4,13 +4,13 @@ type: services
 image: null
 intro:
   heading: What we offer
-  description: >+
+  description: >-
     This woman-owned and operated business provides customizable services for
     events of all sizes. We can spearhead your entire event or assist you with a
     few key elements.
 
 
-    > Entertainment Services - See our full list of offerings here
+    > Entertainment Services
 
     > Audio/ Visual & Lighting
 
@@ -22,6 +22,8 @@ intro:
 
     > Event Staffing & Security
 
+
+    Please email info@hennagarden.com for a full list of offerings!
   blurbs:
     - text: >-
         Musicians, DJ’s & MC’s
