@@ -1,7 +1,8 @@
 ---
 title: "LOL Surprise Wonderland: A Whimsical Birthday Bash Full of Sparkles"
 date: 2020-12-17T15:04:10.000Z
-description: ""
+description: This sixth birthday party was all about going big with imagination
+  and detail—and it delivered on every level.
 image: img/lol-april-2023-13.heic
 photos:
   items:
