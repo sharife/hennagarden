@@ -1,7 +1,8 @@
 ---
 title: "A Night to Remember: Inside Salesforce’s Pan-Asian Holiday Party"
 date: 2021-05-04T15:04:10.000Z
-description: ""
+description: The combination of curated performances, immersive environments,
+  and thoughtful details made this holiday party one of a kind.
 image: img/12.15.06-salesforce-photographers-scott-058.jpg
 photos:
   items:
