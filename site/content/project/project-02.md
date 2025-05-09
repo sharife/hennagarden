@@ -6,7 +6,9 @@ image: /img/fpo.png
 photos:
   items:
     - image: img/lol-april-2023-1.jpg
-    - {}
+    - image: img/lol-april-2023-2.jpg
+    - image: img/lol-april-2023-3.jpg
+    - image: img/lol-april-2023-4.jpg
 ---
 ## A Dream Theme Brought to Life
 
