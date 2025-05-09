@@ -8,7 +8,7 @@ blurb:
     talent  and has been providing unique and diverse entertainment services to
     corporations, nonprofit organizations, schools and private clients. Our
     passion and dedication for exceeding expectations is what has distinguished
-    us from other companies for the past 29 years.
+    us from other companies since 1996.
 projects:
   - image: img/belly-dance-group-2.2.07.jpeg
     title: Event Planning
