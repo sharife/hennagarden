@@ -1,7 +1,9 @@
 ---
 title: "Bollywood, Bhangra & Bangles: A Holiday Celebration to Remember"
 date: 2025-05-16T19:51:35.484Z
-description: ""
+description: "When Rubrik staff arrived at their holiday party, they stepped
+  into a fully immersive celebration of South Asian culture, color, and rhythm.
+  "
 ---
 When Rubrik staff arrived at their holiday party, they stepped into a fully immersive celebration of South Asian culture, color, and rhythm. Designed to be more than just festive, this event was curated to surprise, delight, and offer a sense of journey—from vibrant visuals to interactive experiences.
 
