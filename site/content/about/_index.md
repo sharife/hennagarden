@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: img/holi.png
+image: img/rubrik-holiday-party-2024-scenic_001.cr3_123_websize.jpg
 about:
   - heading: History
     text: >-
