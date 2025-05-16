@@ -16,18 +16,18 @@ From the moment guests entered the space, they were surrounded by warm, vivid hu
 
 The night was layered with immersive activities: henna artists worked steadily at adorned stations, while bindi artists added sparkle to the evening. Astrology and tea leaf reading tables sparked curiosity, with coffee grind readers offering an unexpected twist. Each space invited participation and offered a unique moment of discovery.
 
-
-
 ## Entertainment with Impact
 
 The dance floor took center stage, quite literally, with a DJ tented in the middle, surrounded by lounge seating and ambient lighting. As music pulsed through the venue, Dhol drummers brought the energy up a notch, followed by Bollywood and bhangra dancers who electrified the room with their precision and charisma. The night’s lineup included a snake charmer and a sword swallower—performers who stopped guests in their tracks with their fearless talents.
 
 These performances weren’t isolated spectacles; they moved through the crowd and brought people together. The combination of traditional and modern entertainment created a dynamic flow that kept the dance floor packed and the energy high well into the night.
 
-
-
 ## Thoughtful Details and Lasting Impressions
 
 What made the event especially memorable were the small details that made everyone feel seen. Signature cocktails and a themed menu drew inspiration from Indian flavors, while the blend of performances, interactive stations, and chill-out zones gave each guest a chance to engage in their own way.
 
 The night wasn’t just festive—it was intentional. Every element was crafted to honor culture while offering celebration. This wasn't just a party; it was a powerful and inclusive gathering that left people talking long after the last beat dropped.
+
+
+
+Images are provided by [Show Ready Photo](http://www.showreadyphoto.com/).
