@@ -4,9 +4,24 @@ date: 2025-05-16T19:51:35.484Z
 description: "When Rubrik staff arrived at their holiday party, they stepped
   into a fully immersive celebration of South Asian culture, color, and rhythm.
   "
+image: img/rubrik-holiday-party-2024-scenic_001.cr3_112_websize.jpg
 photos:
   items:
-    - image: img/img_4352.heic
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_064_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_041_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_030_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_045_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_067_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_105_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_093_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_133_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_109_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_110_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_123_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_146_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_043_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_148_websize.jpg
+    - image: img/rubrik-holiday-party-2024-scenic_001.cr3_112_websize.jpg
 ---
 When Rubrik staff arrived at their holiday party, they stepped into a fully immersive celebration of South Asian culture, color, and rhythm. Designed to be more than just festive, this event was curated to surprise, delight, and offer a sense of journey—from vibrant visuals to interactive experiences.
 
