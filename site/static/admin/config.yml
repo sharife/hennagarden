@@ -57,6 +57,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
@@ -82,7 +83,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image, required: false}
           - {label: Description, name: description, widget: string, required: false}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
       - file: "site/content/about/_index.md"
         label: "About Page"
         name: "about"

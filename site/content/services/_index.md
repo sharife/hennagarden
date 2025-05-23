@@ -1,33 +1,22 @@
 ---
 title: Our Services
 type: services
-image:
-  - img/347434076_786528619444131_5490345297048973506_n.jpg
+image: img/347434076_786528619444131_5490345297048973506_n.jpg
 intro:
   heading: What we offer
   description: >-
     This woman-owned and operated business provides customizable services for
     events of all sizes. We can spearhead your entire event or assist you with a
-    few key elements.
+    few key elements.  
 
 
-    > Entertainment Services
-
-    > Audio/ Visual & Lighting
-
-    > Design Concept & Theme Development
-
-    > Event Furnishings & Décor
-
-    > Project Management & Logistics
-
-    > Event Staffing & Security
+    Entertainment Services • Audio/ Visual & Lighting • Design Concept & Theme Development • Event Furnishings & Décor • Project Management & Logistics • Event Staffing & Security  
 
 
     Please email info@hennagarden.com for a full list of offerings!
   blurbs:
     - text: >-
-        Musicians, DJ’s & MC’s
+        **Musicians, DJs & MCs**
 
 
         Henna Garden showcases music representing every corner of the world. Immerge your senses with music from Latin America, China, the Middle East and South East Asia. We can provide traditional instrumental soloists, duets, trios, quartets and larger ensembles.
@@ -42,7 +31,7 @@ intro:
         Let us know your theme and we will find the perfect fit to help your event hit that perfect note!
       image: img/350115276_161786020173716_7954427332504319208_n.jpg
     - text: >-
-        Dancers
+        **Dancers**
 
 
         Henna Garden offers a wide range of dance performances from around the globe that will entice and enchant your audience. Traditional, folkloric and modern dancer’s options include:
@@ -65,7 +54,7 @@ intro:
         - Central Asia (Uzbekistan, Afghanistan, Iran)
       image: img/20160507_205505.jpg
     - text: >-
-        Circus Performers
+        **Circus Performers**
 
 
         Whether you’re looking for vaudeville, cirque, carnival, or classic circus, our alluring circus performers will make your event the talk of the town. From soaring acrobats to pretzel twisting contortionists, towering stilt walkers, and sword swallowers, our circus performers will surely liven up the atmosphere.
@@ -103,7 +92,9 @@ intro:
         - Sword Swallower
       image: img/circus-performers.jpg
     - text: >-
-        Face and Body Art: From Henna and Crystal tattoos, to Facepaint and
+        **Face and Body Art**  
+
+        From Henna and Crystal tattoos, to Facepaint and
         Airbrush
 
 
@@ -124,41 +115,42 @@ intro:
 
         - Comes off with soap and water
       image: img/henna-picutes-013.jpg
-    - text: |-
-        Fortune Tellers & Readers
+    - text: >-
+        **Fortune Tellers & Readers**
 
-        - Palm
-        - Tarot
-        - Crystal Ball
-        - Hand Writing Analysis
-        - Tea/Coffee Grounds
-        - Rune
-        - I-Ching
-        - Aura
-        - Lipstick
+        - Palm  
+
+        - Tarot  
+        
+        - Crystal Ball  
+        
+        - Hand Writing Analysis  
+        
+        - Tea/Coffee Grounds  
+        
+        - Rune  
+        
+        - I-Ching  
+        
+        - Aura  
+        
+        - Lipstick  
       image: img/tarot2.jpg
-    - text: |-
-        Children’s Entertainment
+    - text: >-
+        **Children’s Entertainment**
 
         - Princess Parties
+
         - Sensational Superhero
+        
         - Puppet Shows
+        
         - Carnival Games
+        
         - Petting Zoo
+        
         - Story Telling
+        
         - Rides and Inflateables
       image: img/face-painter-kid.jpg
-testimonials:
-  - author: Deidre Kernan, California Academy of Science
-    quote: We have used Renda Dabit and HennaGarden at the California Academy of
-      Sciences’ Annual Black Tie Ball for several years.  They are
-      fabulous!  Extremely professional, easy to work with, great costumes and
-      ideas, great henna, face painting and crystal tattoos.  The guests love
-      them.  I would recommend them to anyone for any event.
-  - author: Tim Lynn, Salesforce.com
-    quote: Everything was superb — the quality of the performers was wonderful — all
-      60 of them!  I was particularly delighted with the cross-cultural variety
-      of all the performers…Your people really made the difference between a
-      good event and a memorable one.  You made it so easy and we will
-      absolutely use Henna Garden again for our next big event!
 ---

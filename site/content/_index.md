@@ -31,4 +31,17 @@ about:
     excellent service.  We are known for creating alluring, innovative, and
     exceptional experiences which ignite the senses that you and your guests
     will remember for years to come.
+testimonials:
+  - author: Deidre Kernan, California Academy of Science
+    quote: We have used Renda Dabit and HennaGarden at the California Academy of
+      Sciences’ Annual Black Tie Ball for several years.  They are
+      fabulous!  Extremely professional, easy to work with, great costumes and
+      ideas, great henna, face painting and crystal tattoos.  The guests love
+      them.  I would recommend them to anyone for any event.
+  - author: Tim Lynn, Salesforce.com
+    quote: Everything was superb — the quality of the performers was wonderful — all
+      60 of them!  I was particularly delighted with the cross-cultural variety
+      of all the performers…Your people really made the difference between a
+      good event and a memorable one.  You made it so easy and we will
+      absolutely use Henna Garden again for our next big event!
 ---
