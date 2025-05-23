@@ -1,7 +1,7 @@
 ---
 title: Our Services
 type: services
-image: img/347434076_786528619444131_5490345297048973506_n.jpg
+image: img/img_8819.jpg
 intro:
   heading: What we offer
   description: >-
@@ -94,8 +94,7 @@ intro:
     - text: >-
         **Face and Body Art**  
 
-        From Henna and Crystal tattoos, to Facepaint and
-        Airbrush
+        From Henna and Crystal tattoos, to Facepaint and Airbrush
 
 
         Embrace the ancient art form of henna with traditional and modern freehand designs to decorate your body. For more than 5,000 years, henna has been used for celebrations and festivals in Africa, India and the Arab World. Don’t worry! These tattoos are only temporary (lasting 1-3 weeks) and are 100% natural, safe and painless.
@@ -115,42 +114,26 @@ intro:
 
         - Comes off with soap and water
       image: img/henna-picutes-013.jpg
-    - text: >-
+    - text: |-
         **Fortune Tellers & Readers**
-
         - Palm  
-
         - Tarot  
-        
         - Crystal Ball  
-        
         - Hand Writing Analysis  
-        
         - Tea/Coffee Grounds  
-        
         - Rune  
-        
         - I-Ching  
-        
         - Aura  
-        
         - Lipstick  
       image: img/tarot2.jpg
-    - text: >-
+    - text: |-
         **Children’s Entertainment**
-
         - Princess Parties
-
         - Sensational Superhero
-        
         - Puppet Shows
-        
         - Carnival Games
-        
         - Petting Zoo
-        
         - Story Telling
-        
         - Rides and Inflateables
       image: img/face-painter-kid.jpg
 ---
