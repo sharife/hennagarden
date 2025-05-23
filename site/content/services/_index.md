@@ -29,7 +29,7 @@ intro:
 
 
         Let us know your theme and we will find the perfect fit to help your event hit that perfect note!
-      image: img/350115276_161786020173716_7954427332504319208_n.jpg
+      image: img/rubrik-holiday-party-2024-scenic_001.cr3_110_websize.jpg
     - text: >-
         **Dancers**
 
