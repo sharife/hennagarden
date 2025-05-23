@@ -14,7 +14,7 @@ about:
       Since 1996, Henna Garden Events & Entertainment has collaborated with clients across the Bay Area—from corporations and universities to cultural institutions and private celebrations. Our events are immersive, high-impact, and thoughtfully designed to engage and inspire.
        
       Whether we’re producing a full-scale festival or crafting intimate cultural activations, our approach is rooted in decades of experience and a deep love for the art of gathering.
-    imageUrl: img/347141957_938657797346431_8417685496090229725_n.jpg
+    imageUrl: img/cirque-group-resized.png
   - heading: Our Founder & Director
     text: >
       Renda Dabit launched Henna Garden with a mission to share the beauty and
