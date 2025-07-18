@@ -1,6 +1,8 @@
 ---
 title: About Us
 image: img/rubrik-holiday-party-2024-scenic_001.cr3_123_websize.jpg
+intro: 
+  text: Since 1996, Henna Garden Events & Entertainment has collaborated with clients across the Bay Area—from corporations and universities to cultural institutions and private celebrations. Our events are immersive, high-impact, and thoughtfully designed to engage and inspire. Whether we’re producing a full-scale festival or crafting intimate cultural activations, our approach is rooted in decades of experience and a deep love for the art of gathering.
 about:
   - heading: History
     text: >-
@@ -9,11 +11,6 @@ about:
       Henna Garden has built a reputation for excellence, creativity, and
       authenticity. Our work is grounded in cultural richness, client care, and
       unforgettable experiences.
-
-
-      Since 1996, Henna Garden Events & Entertainment has collaborated with clients across the Bay Area—from corporations and universities to cultural institutions and private celebrations. Our events are immersive, high-impact, and thoughtfully designed to engage and inspire.
-       
-      Whether we’re producing a full-scale festival or crafting intimate cultural activations, our approach is rooted in decades of experience and a deep love for the art of gathering.
     imageUrl: img/347141957_938657797346431_8417685496090229725_n.jpg
   - heading: Our Founder & Director
     text: >
@@ -26,9 +23,11 @@ about:
       With over 29 years of experience in event planning and entertainment, Renda has grown Henna Garden into a trusted name for dynamic, inclusive, and culturally rich experiences. Her commitment to excellence, paired with a deep network of global talent, ensures that every event is as seamless as it is spectacular.
     imageUrl: img/renda.jpg
 ---
+## Clients 
+
 Henna Garden works with museums, corporations, non-profits, schools, universities and private clients. Past and present clients of Henna Garden include:  
 
-**Museums**
+### Museums
 
 * Academy of Sciences (San Francisco)
 * Asian Art Museum(San Francisco)
@@ -39,9 +38,9 @@ Henna Garden works with museums, corporations, non-profits, schools, universitie
 * Legion of Honor (San Francisco)
 * Randall Children’s Museum (San Francisco)  
 
-&nbsp;
+---
 
-**Corporations**  
+### Corporations  
 
 * American Express
 * Bank of America
