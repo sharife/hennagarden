@@ -22,6 +22,7 @@ photos:
     - image: img/rubrik-holiday-party-2024-scenic_001.cr3_043_websize.jpg
     - image: img/rubrik-holiday-party-2024-scenic_001.cr3_148_websize.jpg
     - image: img/rubrik-holiday-party-2024-scenic_001.cr3_112_websize.jpg
+    - image: img/csi0273.jpg
 ---
 When Rubrik staff arrived at their holiday party, they stepped into a fully immersive celebration of South Asian culture, color, and rhythm. Designed to be more than just festive, this event was curated to surprise, delight, and offer a sense of journey—from vibrant visuals to interactive experiences.
 

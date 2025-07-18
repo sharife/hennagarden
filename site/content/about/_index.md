@@ -11,7 +11,7 @@ about:
       Henna Garden has built a reputation for excellence, creativity, and
       authenticity. Our work is grounded in cultural richness, client care, and
       unforgettable experiences.
-    imageUrl: img/347141957_938657797346431_8417685496090229725_n.jpg
+    imageUrl: img/cirque-group-resized.png
   - heading: Our Founder & Director
     text: >
       Renda Dabit launched Henna Garden with a mission to share the beauty and
