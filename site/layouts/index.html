@@ -6,13 +6,13 @@
 
 {{ partial "3-up" .Params }}
 
-{{ partial "text-and-image" (dict "imageUrl" .Params.about.image "heading" .Params.about.heading "text" .Params.about.text "buttonText" "Read more" "buttonLink" "/about") }}
-
 <div class="pv4 bg-white">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
 </div>
+
+{{ partial "text-and-image" (dict "imageUrl" .Params.about.image "heading" .Params.about.heading "text" .Params.about.text "buttonText" "Read more" "buttonLink" "/about") }}
 
 <!-- {{ partial "blog" . }}
  -->
