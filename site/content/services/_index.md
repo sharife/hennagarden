@@ -15,6 +15,19 @@ intro:
 
     Please email info@hennagarden.com for a full list of offerings!
   blurbs:
+    - text: |-
+        **Henna Body Art** 
+        For over 5,000 years, henna has celebrated culture from
+        India, Africa & the Middle East. Today, henna is a natural,
+        beautiful way to adorn your body and spirit however you
+        choose.
+        Optional Enhancements:
+        - Add glitter or crystals for a unique twist.
+        - Application takes 3-7 minutes per person.
+        - Designs last 1-2 weeks.
+        Personalized designs for your themes.
+        Henna brings creativity and tradition to every event.
+      image: img/henna-body-work-min.jpg
     - text: >-
         **Musicians, DJs & MCs**
 
