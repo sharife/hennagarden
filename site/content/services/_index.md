@@ -88,29 +88,6 @@ intro:
         that specialize in full body painting. Those rates will
         be different than the above.
       image: img/face-painter-min.jpg
-    - text: >-
-        **Face and Body Art**  
-
-        From Henna and Crystal tattoos, to Facepaint and Airbrush
-
-
-        Embrace the ancient art form of henna with traditional and modern freehand designs to decorate your body. For more than 5,000 years, henna has been used for celebrations and festivals in Africa, India and the Arab World. Don’t worry! These tattoos are only temporary (lasting 1-3 weeks) and are 100% natural, safe and painless.
-
-
-        Crystal tattoos are the hottest new fashion trend! These glamorous (some are made from Swarovski crystals) and temporary tattoos are quick and reusable. Crystal tattoos come in many different shapes, colors and sizes. Gorgeous alone or as an enhancement to your temporary henna tattoo.
-
-
-        Our talented artists offer gorgeous art for the face or the body. Artists can be stationary or can mix and mingle amongst the crowd.
-
-
-        - 3-5 minutes per person.
-
-        - Lasts one day
-
-        - We use FDA approved paints.
-
-        - Comes off with soap and water
-      image: img/henna-picutes-013.jpg
     - text: |-
         **Caricaturists**
 
@@ -234,7 +211,7 @@ intro:
         - Rides and Inflateables
       image: img/face-painter-kid.jpg
     - text: >
-        **Photo booths/Photography **
+        **Photo booths/Photography**
 
 
         Capture unforgettable memories with fun, professional photo experiences designed for your event, featuring customizable backdrops that reflect your theme or a unique, bespoke design.
