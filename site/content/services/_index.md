@@ -37,6 +37,8 @@ intro:
         - Hands-On Engagement: Fun, engaging activities that get guests involved and connected.
 
         - Professional Artists: Skilled entertainers and staff ensure seamless and enjoyable moments.
+
+        - Application Time: approximately 3 to 5 min/ pers.
       image: img/henna-body-work-min.jpg
     - text: >-
         **Airbrush Artist**
