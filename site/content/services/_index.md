@@ -168,19 +168,6 @@ intro:
 
 
         We offer a diverse selection of dancers, a few of whom are highlighted here. Contact us to inquire about our full range of genres and fusion styles.
-
-
-
-        Henna Garden showcases music representing every corner of the world. Immerge your senses with music from Latin America, China, the Middle East and South East Asia. We can provide traditional instrumental soloists, duets, trios, quartets and larger ensembles.
-
-
-        Looking for some good old –school music? Our jazz or 80’s retro band will keep your guests dancing the night away.
-
-
-        Our DJ’s keep the party going with dynamic music. Have a specific genre or theme in mind? We have DJs who play everything from today’s chart toppers, to hip-hop beats, groovy tunes from the 70s, cultural music, and everything in between.
-
-
-        Let us know your theme and we will find the perfect fit to help your event hit that perfect note!
       image: img/rubrik-holiday-party-2024-scenic_001.cr3_110_websize.jpg
     - text: >-
         **Dancers**
