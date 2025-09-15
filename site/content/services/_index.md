@@ -17,13 +17,6 @@ intro:
 
 
     Ready to create an event that leaves a lasting impression? Email us at info@hennagarden.com for our complete list of services.
-
-
-
-    Entertainment Services • Audio/ Visual & Lighting • Design Concept & Theme Development • Event Furnishings & Décor • Project Management & Logistics • Event Staffing & Security  
-
-
-    Please email info@hennagarden.com for a full list of offerings!
   blurbs:
     - text: |-
         **Henna Body Art** 
