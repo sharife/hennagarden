@@ -32,13 +32,11 @@ intro:
         Imagine your guests immersing themselves in a world of intricate designs and aromatic pastes. Each henna design is a unique piece of art, a symbol of good fortune, celebration, and beauty. Our skilled artists will guide guests through the process, sharing stories and insights about the rich history of this cultural art form.
 
 
-        Customizable Creations: We can tailor the designs to fit your event's theme.
+        - Customizable Creations: We can tailor the designs to fit your event's theme.
 
+        - Hands-On Engagement: Fun, engaging activities that get guests involved and connected.
 
-        Hands-On Engagement: Fun, engaging activities that get guests involved and connected.
-
-
-        Professional Artists: Skilled entertainers and staff ensure seamless and enjoyable moments.
+        - Professional Artists: Skilled entertainers and staff ensure seamless and enjoyable moments.
       image: img/henna-body-work-min.jpg
     - text: >-
         **Airbrush Artist**
