@@ -1,14 +1,17 @@
 ---
 title: Welcome to Henna Garden
-subtitle: A full-service event planning company in the San Francisco Bay Area
+subtitle: Celebrating culture, creativity, and community in the San Francisco Bay Area
 image: img/dsc00075-v2.jpg
 blurb:
-  heading: Make Your Next Event a Lasting Memory
-  text: Henna Garden specializes in event planning featuring multicultural
-    talent  and has been providing unique and diverse entertainment services to
-    corporations, nonprofit organizations, schools and private clients. Our
-    passion and dedication for exceeding expectations is what has distinguished
-    us from other companies since 1996.
+  heading: Your Event, Elevated Into an Unforgettable Experience
+  text: "At Henna Garden Events, everything begins with you. Since 1996, we have
+    been offering inclusive event planning and entertainment services for
+    private clients, corporations, museums, nonprofits, and schools. Your vision
+    takes center stage. Whether you are planning a cultural celebration, a
+    themed party, or a team building event, we provide an alluring, innovative,
+    and exceptional experience like no other. From venue sourcing to vendor
+    management, Henna Garden Event will be sure to ignite the senses of your
+    guests! "
 projects:
   - image: img/347408237_946673686619702_8790640952997709029_n.jpg
     title: Entertainment
