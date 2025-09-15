@@ -61,6 +61,17 @@ intro:
         that specialize in full body painting. Those rates will
         be different than the above.
       image: img/face-painter-min.jpg
+    - text: |-
+        **Caricaturists**
+
+        Your whole gathering will ignite with laughter as
+        cartoon images of your guests are created that they can
+        take home for lasting memories.
+
+        - The average time is 4-6 minutes per person.
+        - Available in black-and-white or color.
+        - Artists can draw individuals, couples or groups.
+      image: img/caricaturist.jpg
     - text: >-
         **Musicians, DJs & MCs**
 
