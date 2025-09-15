@@ -5,9 +5,19 @@ image: img/img_8819.jpg
 intro:
   heading: What we offer
   description: >-
-    This woman-owned and operated business provides customizable services for
-    events of all sizes. We can spearhead your entire event or assist you with a
-    few key elements.  
+    From private gatherings to large-scale productions, we deliver fully
+    customizable event services tailored to your needs. Whether you want us to
+    orchestrate every detail or support you with select elements, our team
+    ensures your event is seamless, stunning, and unforgettable.
+
+
+    Our Expertise Includes:
+
+    Multicultural Talent • Entertainment, Performers  & Event Services • Project Management & Logistics • Event Planning Services • Audio/Visual & Lighting • Design Concepts & Theme Development • Event Furnishings & Décor • Event Staffing & Security
+
+
+    Ready to create an event that leaves a lasting impression? Email us at info@hennagarden.com for our complete list of services.
+
 
 
     Entertainment Services • Audio/ Visual & Lighting • Design Concept & Theme Development • Event Furnishings & Décor • Project Management & Logistics • Event Staffing & Security  
@@ -17,6 +27,7 @@ intro:
   blurbs:
     - text: |-
         **Henna Body Art** 
+
         For over 5,000 years, henna has celebrated culture from
         India, Africa & the Middle East. Today, henna is a natural,
         beautiful way to adorn your body and spirit however you
