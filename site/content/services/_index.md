@@ -95,6 +95,8 @@ intro:
         Let our readers answer your questions about love, relationships, and career. We offer services in Astrology, Handwriting Analysis, I-Ching, Tarot, Numerology, and Tea Leaf, Coffee Ground, Aura, Crystal Ball, Lipstick and Palm Readings. Group readings are available. Readers come dressed in festive attire and have decorations for their table.
 
 
+        - Approximately 4 to 5 minutes/person 
+
         - Palm  
 
         - Tarot  
@@ -120,10 +122,32 @@ intro:
         cartoon images of your guests are created that they can
         take home for lasting memories.
 
-        - The average time is 4-6 minutes per person.
+        - Approximately 4 to 5 minutes/person 
         - Available in black-and-white or color.
         - Artists can draw individuals, couples or groups.
       image: img/caricaturist.jpg
+    - text: |
+        **DJs & MCs**
+
+        Get your guests dancing! Our top DJs play the best
+        music from the genre(s) of your choice. Top hits, hip hop,
+        funk, soul, rock and more!
+
+        We offer DJs who play a variety of traditional, folkloric
+        and current music from around the world including:
+        - Pan Asian (China, Korea and Japan)
+        - Bollywood, Indian, and South Asian
+        - Arabic, Middle Eastern, and North African
+        - Mexican, Latin, and Central American, and
+        Caribbean
+        - Motivational dancers
+
+        Additional fees may apply for early set up and late
+        breakdown, additional lighting, or AV needs.
+        Please specify if there is a sound system onsite that DJ
+        can plug into or if they will need to bring their own
+        equipment.
+      image: img/dj_service.jpg
     - text: >-
         **Musicians**
 
@@ -221,7 +245,8 @@ intro:
       image: img/circus-performers.jpg
     - text: |-
         **Children’s Entertainment**
-        - Princess Parties
+
+        - Character Parties & Impersonators
         - Sensational Superhero
         - Puppet Shows
         - Carnival Games
@@ -240,6 +265,10 @@ intro:
 
         - Event Photo Booth
 
+        - AI Photo Booth
+
+        - Green Screen
+
         - Custom Backdrops
 
         - Instant Photo Prints
@@ -254,26 +283,4 @@ intro:
 
         - On-site Photo Services
       image: img/photo-booth.jpg
-    - text: |
-        **DJs & MCs**
-
-        Get your guests dancing! Our top DJs play the best
-        music from the genre(s) of your choice. Top hits, hip hop,
-        funk, soul, rock and more!
-
-        We offer DJs who play a variety of traditional, folkloric
-        and current music from around the world including:
-        - Pan Asian (China, Korea and Japan)
-        - Bollywood, Indian, and South Asian
-        - Arabic, Middle Eastern, and North African
-        - Mexican, Latin, and Central American, and
-        Caribbean
-        - Motivational dancers
-
-        Additional fees will occur for early set up and late
-        breakdown, additional lighting, or AV needs.
-        Please specify if there is a sound system onsite that DJ
-        can plug into or if they will need to bring their own
-        equipment.
-      image: img/dj_service.jpg
 ---
