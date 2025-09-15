@@ -27,11 +27,11 @@ intro:
   blurbs:
     - text: |-
         **Henna Body Art** 
-
         For over 5,000 years, henna has celebrated culture from
         India, Africa & the Middle East. Today, henna is a natural,
         beautiful way to adorn your body and spirit however you
         choose.
+
         Optional Enhancements:
         - Add glitter or crystals for a unique twist.
         - Application takes 3-7 minutes per person.
