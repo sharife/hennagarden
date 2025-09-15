@@ -21,6 +21,7 @@ intro:
     - text: >-
         **Henna Body Art** 
 
+
         The art of henna is a beautiful and ancient tradition that brings a touch of cultural creativity to any event. It's an experience that goes beyond a simple body decoration; it’s an interactive and engaging activity that leaves a lasting impression.
 
 
@@ -41,7 +42,32 @@ intro:
     - text: >-
         **Airbrush Artist**
 
+
         Bring vibrant, customizable body art to your event with airbrush tattoos. Guests can choose from a variety of designs or request customized stencils to match your theme. We use safe, FDA-approved, alcohol-based paints in a wide range of colors.
+
+
+        - Tattoos take 2-3 minutes to apply, dries
+
+        instantly, and last 1–3 days (easily removed with
+
+        rubbing alcohol).
+
+        - Safe, FDA-approved, alcohol-based paints in
+
+        multiple colors.
+
+        - An electrical outlet is required, though some
+
+        artists can provide a CO2 tank for an additional
+
+        fee.
+
+        - Custom stencils available for your theme or logo
+
+        (additional fee).
+
+
+        Make your event unforgettable with eye-catching, personalized airbrush tattoos!
       image: img/airbrush-artists-min.jpeg
     - text: |
         **Face & Body Painters**
