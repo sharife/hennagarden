@@ -39,6 +39,29 @@ intro:
         Professional Artists: Skilled entertainers and staff ensure seamless and enjoyable moments.
       image: img/henna-body-work-min.jpg
     - text: >-
+        **Airbrush Artist**
+
+        Bring vibrant, customizable body art to your event with airbrush tattoos. Guests can choose from a variety of designs or request customized stencils to match your theme. We use safe, FDA-approved, alcohol-based paints in a wide range of colors.
+      image: img/airbrush-artists-min.jpeg
+    - text: |
+        **Face & Body Painters**
+
+        Our talented artists offer gorgeous art for the face or the
+        body. Artists can be stationary or can mix and mingle
+        amongst the crowd.
+
+        - 3-5 minutes per person.
+        - Lasts one day.
+        - We use FDA approved paints.
+        - Comes off with soap and water.
+        - Set up for stationary artists is one table and two
+        chairs.
+
+        We provide professional award-winning painters
+        that specialize in full body painting. Those rates will
+        be different than the above.
+      image: img/face-painter-min.jpg
+    - text: >-
         **Musicians, DJs & MCs**
 
 
@@ -159,9 +182,4 @@ intro:
         - Story Telling
         - Rides and Inflateables
       image: img/face-painter-kid.jpg
-    - text: >-
-        **Airbrush Artist**
-
-        Bring vibrant, customizable body art to your event with airbrush tattoos. Guests can choose from a variety of designs or request customized stencils to match your theme. We use safe, FDA-approved, alcohol-based paints in a wide range of colors.
-      image: img/airbrush-artists-min.jpeg
 ---
