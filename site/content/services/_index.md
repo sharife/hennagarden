@@ -233,4 +233,29 @@ intro:
         - Story Telling
         - Rides and Inflateables
       image: img/face-painter-kid.jpg
+    - text: >
+        **Photo booths/Photography **
+
+
+        Capture unforgettable memories with fun, professional photo experiences designed for your event, featuring customizable backdrops that reflect your theme or a unique, bespoke design.
+
+        Our skilled photographers ensure every moment is beautifully captured with expert setup and lighting, creating a seamless, memorable experience for everyone.
+
+
+        - Event Photo Booth
+
+        - Custom Backdrops
+
+        - Instant Photo Prints
+
+        - Digital Photo Downloads
+
+        - Interactive Photo Experiences
+
+        - Professional Event Photography
+
+        - Themed Photo Props
+
+        - On-site Photo Services
+      image: img/photo-booth.jpg
 ---
