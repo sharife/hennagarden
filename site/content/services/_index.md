@@ -88,6 +88,31 @@ intro:
         that specialize in full body painting. Those rates will
         be different than the above.
       image: img/face-painter-min.jpg
+    - text: >-
+        **Fortune Tellers & Readers**
+
+
+        Let our readers answer your questions about love, relationships, and career. We offer services in Astrology, Handwriting Analysis, I-Ching, Tarot, Numerology, and Tea Leaf, Coffee Ground, Aura, Crystal Ball, Lipstick and Palm Readings. Group readings are available. Readers come dressed in festive attire and have decorations for their table.
+
+
+        - Palm  
+
+        - Tarot  
+
+        - Crystal Ball  
+
+        - Hand Writing Analysis  
+
+        - Tea/Coffee Grounds  
+
+        - Rune  
+
+        - I-Ching  
+
+        - Aura  
+
+        - Lipstick  
+      image: img/fortune-teller.jpg
     - text: |-
         **Caricaturists**
 
@@ -175,31 +200,6 @@ intro:
 
         - Sword Swallower
       image: img/circus-performers.jpg
-    - text: >-
-        **Fortune Tellers & Readers**
-
-
-        Let our readers answer your questions about love, relationships, and career. We offer services in Astrology, Handwriting Analysis, I-Ching, Tarot, Numerology, and Tea Leaf, Coffee Ground, Aura, Crystal Ball, Lipstick and Palm Readings. Group readings are available. Readers come dressed in festive attire and have decorations for their table.
-
-
-        - Palm  
-
-        - Tarot  
-
-        - Crystal Ball  
-
-        - Hand Writing Analysis  
-
-        - Tea/Coffee Grounds  
-
-        - Rune  
-
-        - I-Ching  
-
-        - Aura  
-
-        - Lipstick  
-      image: img/fortune-teller.jpg
     - text: |-
         **Children’s Entertainment**
         - Princess Parties
@@ -235,4 +235,26 @@ intro:
 
         - On-site Photo Services
       image: img/photo-booth.jpg
+    - text: |
+        **DJ**
+
+        Get your guests dancing! Our top DJs play the best
+        music from the genre(s) of your choice. Top hits, hip hop,
+        funk, soul, rock and more!
+
+        We offer DJs who play a variety of traditional, folkloric
+        and current music from around the world including:
+        - Pan Asian (China, Korea and Japan)
+        - Bollywood, Indian, and South Asian
+        - Arabic, Middle Eastern, and North African
+        - Mexican, Latin, and Central American, and
+        Caribbean
+        - Motivational dancers
+
+        Additional fees will occur for early set up and late
+        breakdown, additional lighting, or AV needs.
+        Please specify if there is a sound system onsite that DJ
+        can plug into or if they will need to bring their own
+        equipment.
+      image: img/dj_service.jpg
 ---
