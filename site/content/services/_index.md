@@ -149,4 +149,9 @@ intro:
         - Story Telling
         - Rides and Inflateables
       image: img/face-painter-kid.jpg
+    - text: >-
+        **Airbrush Artist**
+
+        Bring vibrant, customizable body art to your event with airbrush tattoos. Guests can choose from a variety of designs or request customized stencils to match your theme. We use safe, FDA-approved, alcohol-based paints in a wide range of colors.
+      image: img/airbrush-artists-min.jpeg
 ---
