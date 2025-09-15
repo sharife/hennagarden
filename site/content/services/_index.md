@@ -125,7 +125,26 @@ intro:
         - Artists can draw individuals, couples or groups.
       image: img/caricaturist.jpg
     - text: >-
-        **Musicians, DJs & MCs**
+        **Musicians**
+
+
+
+        Elevate your event with captivating performances and vibrant energy!
+
+
+        - Versatile Styles: Choose from a variety of dance styles to match your theme, from traditional &
+
+        folkloric, to contemporary & fusion.
+
+        - Interactive Experiences: Engage your audience with lessons, and/or audience participation if.
+
+        - Customized Performances: Tailor the show to fit your event’s tone and schedule.
+
+        - Professional Talent: Skilled dancers in stunning costumes deliver unforgettable performances.
+
+
+        We offer a diverse selection of dancers, a few of whom are highlighted here. Contact us to inquire about our full range of genres and fusion styles.
+
 
 
         Henna Garden showcases music representing every corner of the world. Immerge your senses with music from Latin America, China, the Middle East and South East Asia. We can provide traditional instrumental soloists, duets, trios, quartets and larger ensembles.
@@ -236,7 +255,7 @@ intro:
         - On-site Photo Services
       image: img/photo-booth.jpg
     - text: |
-        **DJ**
+        **DJs & MCs**
 
         Get your guests dancing! Our top DJs play the best
         music from the genre(s) of your choice. Top hits, hip hop,
