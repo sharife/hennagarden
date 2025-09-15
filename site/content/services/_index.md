@@ -25,6 +25,7 @@ intro:
         - Add glitter or crystals for a unique twist.
         - Application takes 3-7 minutes per person.
         - Designs last 1-2 weeks.
+
         Personalized designs for your themes.
         Henna brings creativity and tradition to every event.
       image: img/henna-body-work-min.jpg
