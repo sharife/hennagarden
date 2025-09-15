@@ -220,7 +220,7 @@ intro:
         - Aura  
 
         - Lipstick  
-      image: img/tarot2.jpg
+      image: img/fortune-teller.jpg
     - text: |-
         **Children’s Entertainment**
         - Princess Parties
