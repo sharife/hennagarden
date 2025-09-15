@@ -18,20 +18,25 @@ intro:
 
     Ready to create an event that leaves a lasting impression? Email us at info@hennagarden.com for our complete list of services.
   blurbs:
-    - text: |-
+    - text: >-
         **Henna Body Art** 
-        For over 5,000 years, henna has celebrated culture from
-        India, Africa & the Middle East. Today, henna is a natural,
-        beautiful way to adorn your body and spirit however you
-        choose.
 
-        Optional Enhancements:
-        - Add glitter or crystals for a unique twist.
-        - Application takes 3-7 minutes per person.
-        - Designs last 1-2 weeks.
+        The art of henna is a beautiful and ancient tradition that brings a touch of cultural creativity to any event. It's an experience that goes beyond a simple body decoration; it’s an interactive and engaging activity that leaves a lasting impression.
 
-        Personalized designs for your themes.
-        Henna brings creativity and tradition to every event.
+
+        The Henna Experience
+
+
+        Imagine your guests immersing themselves in a world of intricate designs and aromatic pastes. Each henna design is a unique piece of art, a symbol of good fortune, celebration, and beauty. Our skilled artists will guide guests through the process, sharing stories and insights about the rich history of this cultural art form.
+
+
+        Customizable Creations: We can tailor the designs to fit your event's theme.
+
+
+        Hands-On Engagement: Fun, engaging activities that get guests involved and connected.
+
+
+        Professional Artists: Skilled entertainers and staff ensure seamless and enjoyable moments.
       image: img/henna-body-work-min.jpg
     - text: >-
         **Musicians, DJs & MCs**
