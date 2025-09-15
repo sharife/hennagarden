@@ -13,6 +13,7 @@ intro:
 
     Our Expertise Includes:
 
+
     Multicultural Talent • Entertainment, Performers  & Event Services • Project Management & Logistics • Event Planning Services • Audio/Visual & Lighting • Design Concepts & Theme Development • Event Furnishings & Décor • Event Staffing & Security
 
 
@@ -197,16 +198,29 @@ intro:
 
         - Comes off with soap and water
       image: img/henna-picutes-013.jpg
-    - text: |-
+    - text: >-
         **Fortune Tellers & Readers**
+
+
+        Let our readers answer your questions about love, relationships, and career. We offer services in Astrology, Handwriting Analysis, I-Ching, Tarot, Numerology, and Tea Leaf, Coffee Ground, Aura, Crystal Ball, Lipstick and Palm Readings. Group readings are available. Readers come dressed in festive attire and have decorations for their table.
+
+
         - Palm  
+
         - Tarot  
+
         - Crystal Ball  
+
         - Hand Writing Analysis  
+
         - Tea/Coffee Grounds  
+
         - Rune  
+
         - I-Ching  
+
         - Aura  
+
         - Lipstick  
       image: img/tarot2.jpg
     - text: |-
