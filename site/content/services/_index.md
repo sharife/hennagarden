@@ -230,16 +230,20 @@ intro:
 
         - Sword Swallower
       image: img/circus-performers.jpg
-    - text: |-
+    - text: >-
         **Children’s Entertainment**
 
-        - Character Parties & Impersonators
-        - Sensational Superhero
-        - Puppet Shows
-        - Carnival Games
-        - Petting Zoo
-        - Story Telling
-        - Rides and Inflateables
+
+        Create magical moments with fun, interactive entertainment for kids!
+
+
+        - Variety of Acts: Character Parties & Impersonators, Sensational Superhero, Circus Performers, comedy magicians, puppeteers, Puppet Shows, face painters, bubble artists, Carnival Games, Petting Zoo, Story Telling, Rides and Inflateables and more. 
+
+        - Engaging activities: Arts and crafts that keep children entertained and involved. 
+
+        - Themed Performances: Tailor acts to match your event's theme or the kids' interests.
+
+        - Professional Talent: Experienced Performers who ensure safe, high-energy fun for all ages.
       image: img/balloons.jpg
     - text: >
         **Photo booths/Photography**
