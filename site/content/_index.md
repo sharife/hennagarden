@@ -13,12 +13,12 @@ blurb:
     management, Henna Garden Event will be sure to ignite the senses of your
     guests! "
 projects:
-  - image: img/347408237_946673686619702_8790640952997709029_n.jpg
+  - image: img/entertainers.jpg
     title: Entertainment
     text: With access to more than 1,000 musicians, artists, and performers, we can
       ensure the best talent for your events.
-  - image: img/img_9184.jpg
-    title: Set Design
+  - image: img/dsc00182_retouched.jpg
+    title: Design
     text: We can create an innovative event space that provides a transformative
       experience.
   - image: img/belly-dance-group-2.2.07.jpeg
