@@ -21,7 +21,7 @@ projects:
     title: Design
     text: We can create an innovative event space that provides a transformative
       experience.
-  - image: img/belly-dance-group-2.2.07.jpeg
+  - image: img/5.5.06-wedding2.jpg
     title: Event Planning
     text: Henna Garden creates innovative events which ignite the senses like no
       other, with our experience, passion, and creative ingenuity!
