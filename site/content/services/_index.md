@@ -191,7 +191,7 @@ intro:
         - Europe (Greek, German, Irish)
 
         - Central Asia (Uzbekistan, Afghanistan, Iran)
-      image: img/20160507_205505.jpg
+      image: img/dancers-min.jpg
     - text: >-
         **Circus Performers**
 
