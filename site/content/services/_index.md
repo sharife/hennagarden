@@ -147,7 +147,7 @@ intro:
         Please specify if there is a sound system onsite that DJ
         can plug into or if they will need to bring their own
         equipment.
-      image: img/dj_service.jpg
+      image: img/dj-picpexels-yankrukov-9005437.jpg
     - text: >-
         **Musicians**
 
