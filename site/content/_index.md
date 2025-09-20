@@ -17,11 +17,11 @@ projects:
     title: Entertainment
     text: With access to more than 1,000 musicians, artists, and performers, we can
       ensure the best talent for your events.
-  - image: img/dsc00182_retouched.jpg
+  - image: img/dsc00182.jpg
     title: Design
     text: We can create an innovative event space that provides a transformative
       experience.
-  - image: img/5.5.06-wedding2.jpg
+  - image: img/csi0181-1-.jpg
     title: Event Planning
     text: Henna Garden creates innovative events which ignite the senses like no
       other, with our experience, passion, and creative ingenuity!
