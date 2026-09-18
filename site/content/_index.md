@@ -1,7 +1,7 @@
 ---
 title: Welcome to Henna Garden
 subtitle: Celebrating culture, creativity, and community in the San Francisco Bay Area
-image: img/dsc00075-v2.jpg
+image: img/22instapost_-rebecca__prell.jpg
 blurb:
   heading: Your Event, Elevated Into an Unforgettable Experience
   text: "At Henna Garden Events, everything begins with you. Since 1996, we have
