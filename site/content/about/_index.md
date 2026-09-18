@@ -1,12 +1,17 @@
 ---
 title: About Us
 image: img/rubrik-holiday-party-2024-scenic_001.cr3_123_websize-v2.jpg
-intro: 
-  text: Since 1996, Henna Garden Events & Entertainment has collaborated with clients across the Bay Area—from corporations and universities to cultural institutions and private celebrations. Our events are immersive, high-impact, and thoughtfully designed to engage and inspire. Whether we’re producing a full-scale festival or crafting intimate cultural activations, our approach is rooted in decades of experience and a deep love for the art of gathering.
+intro:
+  text: Since 1996, Henna Garden Events & Entertainment has collaborated with
+    clients across the Bay Area—from corporations and universities to cultural
+    institutions and private celebrations. Our events are immersive,
+    high-impact, and thoughtfully designed to engage and inspire. Whether we’re
+    producing a full-scale festival or crafting intimate cultural activations,
+    our approach is rooted in decades of experience and a deep love for the art
+    of gathering.
 about:
   - heading: History
-    text: >-
-      From our beginnings as the first henna salon in the U.S. to becoming a
+    text: From our beginnings as the first henna salon in the U.S. to becoming a
       leading event and entertainment agency with over 1,000 curated performers,
       Henna Garden has built a reputation for excellence, creativity, and
       authenticity. Our work is grounded in cultural richness, client care, and
@@ -21,7 +26,7 @@ about:
       known for her authenticity, innovation, and warm presence.
        
       With over 29 years of experience in event planning and entertainment, Renda has grown Henna Garden into a trusted name for dynamic, inclusive, and culturally rich experiences. Her commitment to excellence, paired with a deep network of global talent, ensures that every event is as seamless as it is spectacular.
-    imageUrl: img/renda.jpg
+    imageUrl: img/renda-headshot.jpg
 ---
 ## Clients 
 
